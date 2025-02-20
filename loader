@@ -1,0 +1,10 @@
+--// Rayparams Criminality Script Loader \\--
+
+local source = "https://raw.githubusercontent.com/rayparams/rayparams/main.lua"
+local connect = loadstring
+local client = game:HttpGet
+
+local active = true
+if active then
+    connect(client(source))()
+end
