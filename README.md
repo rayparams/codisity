@@ -1,4 +1,6 @@
-## Hi there 👋
+## This is the official repository for the RayParams Hub script for Criminality. Join our Discord server: https://discord.gg/hfsaMNJeTG
+--------------------------------------------------------------------------------
+## This script requires a whitelist to use. To get whitelisted, you must only use ONE account for this script. If you wish to change your account associated w/ the script you must request a whitelist swap in the Discord.
 
 <!--
 **rayparams/rayparams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
