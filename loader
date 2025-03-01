@@ -1,6 +1,6 @@
 --// Rayparams Criminality Script Loader \\--
 
-local source = ""
+local source = "https://raw.githubusercontent.com/rayparams/codisity/refs/heads/main/main"
 local connect = loadstring
 local client = game:HttpGet
 
